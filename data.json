@@ -1,0 +1,13 @@
+{
+  "main-counter": "300,069",
+  "deaths": "7,549",
+  "recoveries": "66,123",
+  "currently-infected": "223,156",
+  "mild-condition": "212,516",
+  "critical-condition": "10,640",
+  "mild-condition-perc": "95%",
+  "critical-condition-perc": "5%",
+  "outcome-cases": "112,247",
+  "recovery-perc": "87%",
+  "deaths-perc": "13%"
+}
